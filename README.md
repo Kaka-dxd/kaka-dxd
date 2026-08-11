@@ -4,12 +4,12 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+developer+profile...;%3E+Software+Engineering+Student;%3E+3rd+Semester+%7C+Unialfa;%3E+C%23+%7C+Python+%7C+JavaScript;%3E+HTML+%7C+CSS+%7C+PHP+%7C+SQLite;%3E+Learning.+Building.+Evolving.;%3E+System+online.+Ready+to+code." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+developer+profile...;%3E+Software+Engineering+Student;%3E+3rd+Semester+%7C+Unialfa;%3E+C+%7C+C%2B%2B+%7C+Python;%3E+JavaScript+%7C+HTML+%7C+CSS;%3E+Learning.+Building.+Evolving.;%3E+System+online.+Ready+to+code." alt="Typing Animation"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00e5ff?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/ENGINEERING_SOFTWARE-3%C2%BA%20PER%C3%8DODO-111827?style=for-the-badge&logo=academia&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/ENGINEERING%20SOFTWARE-3%C2%BA%20PER%C3%8DODO-111827?style=for-the-badge&logo=academia&logoColor=00e5ff"/>
 <img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-111827?style=for-the-badge&logo=codeforces&logoColor=00e5ff"/>
 
 </div>
@@ -34,6 +34,7 @@
 ║                                                              ║
 ║  CURRENT FOCUS                                                ║
 ║  └─ Improve programming knowledge.                            ║
+║  └─ Strengthen programming fundamentals.                     ║
 ║  └─ Deepen knowledge of programming languages.                ║
 ║  └─ Build practical projects.                                ║
 ║                                                              ║
@@ -42,13 +43,15 @@
 
 🎓 Sou estudante de **Engenharia de Software na Unialfa**, atualmente no **3º período**.
 
-💻 Tenho interesse em desenvolvimento de software e venho construindo minha base através de diferentes linguagens e tecnologias, como **C#, Python, JavaScript, HTML, CSS, PHP e SQLite**.
+💻 Venho desenvolvendo meus conhecimentos em programação através de linguagens como **C, C++, Python e JavaScript**, além de **HTML e CSS** para desenvolvimento web.
 
-🧠 Meu principal objetivo atualmente é **estudar, aprimorar meus conhecimentos como programador e me aperfeiçoar cada vez mais em uma linguagem**, transformando conhecimento teórico em projetos práticos.
+🧠 Atualmente, meu principal objetivo é **aprimorar meus conhecimentos como programador**, fortalecer minha base e me aperfeiçoar cada vez mais em uma linguagem.
+
+🚀 Gosto de aprender colocando o conhecimento em prática, desenvolvendo projetos e explorando diferentes formas de resolver problemas através da programação.
 
 > `SYSTEM.MESSAGE`
 >
-> **"Learning is not a phase. It's the system update."**
+> **"Learning is not a phase. It's a continuous system update."**
 
 ---
 
@@ -56,21 +59,21 @@
 
 <div align="center">
 
-### `LANGUAGES`
+### `PROGRAMMING LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=cs,python,javascript,html,css,php" />
-
-<br><br>
-
-### `DATABASE`
-
-<img src="https://skillicons.dev/icons?i=sqlite" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
 
 <br><br>
 
-### `TOOLS`
+### `WEB DEVELOPMENT`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+<br><br>
+
+### `VERSION CONTROL`
+
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 </div>
 
@@ -80,17 +83,16 @@
 
 <div align="center">
 
-|  TECHNOLOGY  |     CATEGORY    |     STATUS    |
-| :----------: | :-------------: | :-----------: |
-|     `C#`     |   Programming   |  🟢 Studying  |
-|   `Python`   |   Programming   |  🟢 Studying  |
-| `JavaScript` | Web Development |  🟢 Studying  |
-|    `HTML5`   |       Web       |  🟢 Studying  |
-|    `CSS3`    |       Web       |  🟢 Studying  |
-|     `PHP`    |     Backend     | 🟡 Developing |
-|   `SQLite`   |     Database    | 🟡 Developing |
-|     `Git`    | Version Control |    🟢 Using   |
-|   `GitHub`   |  Collaboration  |    🟢 Using   |
+|  TECHNOLOGY  |             CATEGORY            |
+| :----------: | :-----------------------------: |
+|      `C`     |           Programming           |
+|     `C++`    |           Programming           |
+|   `Python`   |           Programming           |
+| `JavaScript` |        Web / Programming        |
+|    `HTML5`   |         Web Development         |
+|    `CSS3`    |         Web Development         |
+|     `Git`    |         Version Control         |
+|   `GitHub`   | Version Control / Collaboration |
 
 </div>
 
@@ -114,13 +116,11 @@
 
 Projeto desenvolvido durante minha formação em **Engenharia de Software**, com foco na criação de uma solução digital para gerenciamento e agendamento de serviços de uma barbearia.
 
-### `TECHNOLOGIES`
+### `PROJECT_TECH`
 
 ```text
 HTML5
 CSS3
-PHP
-SQLite
 JavaScript
 ```
 
@@ -160,23 +160,23 @@ JavaScript
 
 $ ./developer_progress.sh
 
-[■■■■■■■■■■■■■■■■░░░░] 80%  Software Engineering
-[■■■■■■■■■■■■░░░░░░░░] 65%  Programming Fundamentals
-[■■■■■■■■■■■■░░░░░░░░] 60%  C#
-[■■■■■■■■■■■■░░░░░░░░] 60%  Python
-[■■■■■■■■■■■■░░░░░░░░] 60%  JavaScript
-[■■■■■■■■■■■■■■░░░░░] 70%  Web Development
-
-> Studying programming concepts...
+> Studying programming fundamentals...
 > Improving problem-solving skills...
+> Practicing C and C++...
+> Developing with Python...
+> Exploring JavaScript...
+> Improving web development skills...
 > Building practical projects...
-> Exploring programming languages...
 > Searching for the next skill to master...
 
 $ ./next_level.exe
 
 PROCESS RUNNING █
 ```
+
+### `PRIMARY_GOAL`
+
+> **Aprimorar continuamente meus conhecimentos como programador e me aprofundar cada vez mais em uma linguagem.**
 
 ---
 
