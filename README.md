@@ -186,11 +186,6 @@ PROCESS RUNNING █
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaka-dxd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaka-dxd&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=00e5ff"/>
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Kaka-dxd&theme=github-dark-blue&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff"/>
 
