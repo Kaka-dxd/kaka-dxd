@@ -8,7 +8,7 @@
 
 <br><br>
 
-<!-- STATUS BADGES — VISUAIS, NÃO SÃO LINKS -->
+
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00e5ff?style=for-the-badge&logo=github&logoColor=white" alt="System Online"/>
 <img src="https://img.shields.io/badge/ENGINEERING%20SOFTWARE-3%C2%BA%20PER%C3%8DODO-111827?style=for-the-badge&logo=academia&logoColor=00e5ff" alt="Engineering Software"/>
@@ -18,7 +18,7 @@
 
 ---
 
-# `> ABOUT_ME`
+# `> 👨‍💻 ABOUT_ME`
 
 ```text
 ══════════════════════════════════════════════════════════════
@@ -57,7 +57,7 @@
 
 ---
 
-# `> TECH_STACK`
+# `>⚡ TECH_STACK`
 
 <div align="center">
 
