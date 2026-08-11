@@ -1,72 +1,74 @@
-# `> SYSTEM.INIT()` — CARLOS HENRIQUE
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050505,50:0d1117,100:00e5ff&text=CARLOS%20HENRIQUE&fontColor=00e5ff&fontSize=48&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0d1117,100:00e5ff&text=CARLOS%20HENRIQUE&fontColor=00E5FF&fontSize=52&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20DEVELOPER&descAlignY=58&descSize=17&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+developer+profile...;%3E+Software+Engineering+Student;%3E+Building+systems+with+code;%3E+C%23+%7C+Python+%7C+JavaScript;%3E+HTML+%7C+CSS;%3E+System+online.+Ready+to+build." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+developer+profile...;%3E+Software+Engineering+Student;%3E+3rd+Semester+%7C+Unialfa;%3E+C%23+%7C+Python+%7C+JavaScript;%3E+HTML+%7C+CSS+%7C+PHP+%7C+SQLite;%3E+Learning.+Building.+Evolving.;%3E+System+online.+Ready+to+code." alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-111827?style=for-the-badge&logo=codeforces&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/LEVEL-3%C2%BA%20PER%C3%8DODO-111827?style=for-the-badge&logo=academia&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00e5ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/ENGINEERING_SOFTWARE-3%C2%BA%20PER%C3%8DODO-111827?style=for-the-badge&logo=academia&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-111827?style=for-the-badge&logo=codeforces&logoColor=00e5ff"/>
 
 </div>
 
 ---
 
-## `01 // ABOUT_ME`
+# `> ABOUT_ME`
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                     SYSTEM PROFILE                          │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  NAME       :: Carlos Henrique                              │
-│  ROLE       :: Software Engineering Student                 │
-│  PERIOD     :: 3rd Semester                                 │
-│  STATUS     :: Learning • Building • Evolving                │
-│                                                             │
-│  CURRENT MISSION                                             │
-│  └─ Transform ideas into functional software.               │
-│                                                             │
-│  DEVELOPMENT MINDSET                                        │
-│  └─ Learn → Build → Break → Understand → Improve            │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                    DEVELOPER PROFILE                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  NAME       :: Carlos Henrique                               ║
+║  ROLE       :: Software Engineering Student                  ║
+║  UNIVERSITY :: UNIALFA                                       ║
+║  SEMESTER   :: 3rd Semester                                  ║
+║  STATUS     :: Learning • Building • Evolving                 ║
+║                                                              ║
+║  MISSION                                                      ║
+║  └─ Become a better programmer every day.                    ║
+║                                                              ║
+║  CURRENT FOCUS                                                ║
+║  └─ Improve programming knowledge.                            ║
+║  └─ Deepen knowledge of programming languages.                ║
+║  └─ Build practical projects.                                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-🎓 Atualmente curso **Engenharia de Software**, no 3º período, construindo minha base em desenvolvimento de software e explorando diferentes tecnologias.
+🎓 Sou estudante de **Engenharia de Software na Unialfa**, atualmente no **3º período**.
 
-💻 Tenho experiência de estudo e desenvolvimento com **C#, Python, JavaScript, HTML e CSS**, buscando evoluir constantemente tanto na programação quanto na construção de sistemas completos.
+💻 Tenho interesse em desenvolvimento de software e venho construindo minha base através de diferentes linguagens e tecnologias, como **C#, Python, JavaScript, HTML, CSS, PHP e SQLite**.
 
-🧠 Meu objetivo é transformar conhecimento teórico em projetos reais, experimentando tecnologias, criando soluções e entendendo cada vez melhor como o software funciona por trás das interfaces.
+🧠 Meu principal objetivo atualmente é **estudar, aprimorar meus conhecimentos como programador e me aperfeiçoar cada vez mais em uma linguagem**, transformando conhecimento teórico em projetos práticos.
 
-> `SYSTEM.MESSAGE:`
-> **"Every line of code is another step toward mastery."**
+> `SYSTEM.MESSAGE`
+>
+> **"Learning is not a phase. It's the system update."**
 
 ---
 
-## `02 // TECH_STACK`
+# `> TECH_STACK`
 
 <div align="center">
 
 ### `LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=cs,python,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=cs,python,javascript,html,css,php" />
 
 <br><br>
 
-### `WEB DEVELOPMENT`
+### `DATABASE`
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=sqlite" />
 
 <br><br>
 
-### `TOOLS & ENVIRONMENT`
+### `TOOLS`
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
 
@@ -74,161 +76,117 @@
 
 ---
 
-## `03 // TOOLKIT`
+# `> TECHNOLOGY_MATRIX`
 
 <div align="center">
 
-|      TECHNOLOGY      | PURPOSE                                               |
-| :------------------: | :---------------------------------------------------- |
-|       ⚙️ **C#**      | Desenvolvimento de aplicações e lógica de programação |
-|     🐍 **Python**    | Automação, lógica e desenvolvimento                   |
-|   🌐 **JavaScript**  | Desenvolvimento web e interatividade                  |
-|     🧱 **HTML5**     | Estruturação de aplicações web                        |
-|      🎨 **CSS3**     | Estilização e interfaces                              |
-|      🔧 **Git**      | Controle de versão                                    |
-|     🐙 **GitHub**    | Versionamento e colaboração                           |
-|    💻 **VS Code**    | Desenvolvimento                                       |
-| 🪟 **Visual Studio** | Desenvolvimento em C#                                 |
+|  TECHNOLOGY  |     CATEGORY    |     STATUS    |
+| :----------: | :-------------: | :-----------: |
+|     `C#`     |   Programming   |  🟢 Studying  |
+|   `Python`   |   Programming   |  🟢 Studying  |
+| `JavaScript` | Web Development |  🟢 Studying  |
+|    `HTML5`   |       Web       |  🟢 Studying  |
+|    `CSS3`    |       Web       |  🟢 Studying  |
+|     `PHP`    |     Backend     | 🟡 Developing |
+|   `SQLite`   |     Database    | 🟡 Developing |
+|     `Git`    | Version Control |    🟢 Using   |
+|   `GitHub`   |  Collaboration  |    🟢 Using   |
 
 </div>
 
 ---
 
-## `04 // PROJECT_DATABASE`
-
-> `Scanning repositories...`
+# `> FEATURED_PROJECT`
 
 <div align="center">
 
-<table>
-<tr>
+<a href="https://github.com/Kaka-dxd/Projetos/tree/main/Sites/Oslo%20Barbearia/TRABALHO">
 
-<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaka-dxd&repo=Projetos&theme=github_dark&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
 
-### 🖥️ `OSLO BARBEARIA`
-
-**Sistema de agendamento para barbearia**
-
-Projeto desenvolvido com foco em digitalização de pequenos negócios, permitindo organizar clientes, serviços e horários.
-
-**Stack**
-
-`PHP` `SQLite` `HTML5` `CSS3`
-
-<br>
-
-<a href="SEU_LINK_DO_REPOSITORIO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00e5ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-</td>
+</div>
 
-<td width="50%" align="center">
+## 🖥️ Oslo Barbearia
 
-### 🚀 `PROJECT_02`
+> `PROJECT_STATUS :: ACTIVE`
 
-**Seu próximo projeto**
+Projeto desenvolvido durante minha formação em **Engenharia de Software**, com foco na criação de uma solução digital para gerenciamento e agendamento de serviços de uma barbearia.
 
-Adicione aqui uma descrição curta do projeto, suas funcionalidades e tecnologias utilizadas.
+### `TECHNOLOGIES`
 
-**Stack**
+```text
+HTML5
+CSS3
+PHP
+SQLite
+JavaScript
+```
 
-`C#` `Python` `JavaScript`
+### `PROJECT_GOAL`
 
-<br>
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│  DIGITALIZE                                │
+│  ORGANIZE                                  │
+│  SIMPLIFY                                  │
+│                                             │
+│  Transforming a traditional process         │
+│  into a digital experience.                 │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
-<a href="SEU_LINK_DO_REPOSITORIO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00e5ff?style=for-the-badge&logo=github&logoColor=black"/>
+<div align="center">
+
+<a href="https://github.com/Kaka-dxd/Projetos/tree/main/Sites/Oslo%20Barbearia/TRABALHO">
+
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+
 </a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 🤖 `PROJECT_03`
-
-**Experimento / aplicação**
-
-Um projeto para colocar novos conhecimentos em prática e explorar novas tecnologias.
-
-**Stack**
-
-`Python` `JavaScript`
-
-<br>
-
-<a href="SEU_LINK_DO_REPOSITORIO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00e5ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🧪 `PROJECT_04`
-
-**Laboratório de código**
-
-Projetos, testes e experimentos utilizados durante minha evolução como desenvolvedor.
-
-**Stack**
-
-`C#` `Python` `JavaScript`
-
-<br>
-
-<a href="SEU_LINK_DO_REPOSITORIO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00e5ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
 ---
 
-## `05 // CURRENT_OBJECTIVES`
+# `> CURRENT_OBJECTIVES`
 
 ```bash
 ╭──────────────────────────────────────────────────────────────╮
-│                    CURRENT OBJECTIVES                        │
+│                    CURRENT MISSION                           │
 ╰──────────────────────────────────────────────────────────────╯
 
-$ ./start_learning.sh
+$ ./developer_progress.sh
 
-[■■■■■■■■■■■■■■■■■■■■] 100%  Software Engineering
-[■■■■■■■■■■■■■■░░░░░]  75%  C#
-[■■■■■■■■■■■■░░░░░░░]  60%  Python
-[■■■■■■■■■■■■░░░░░░░]  60%  JavaScript
-[■■■■■■■■■■■■■■░░░░]  70%  Web Development
+[■■■■■■■■■■■■■■■■░░░░] 80%  Software Engineering
+[■■■■■■■■■■■■░░░░░░░░] 65%  Programming Fundamentals
+[■■■■■■■■■■■■░░░░░░░░] 60%  C#
+[■■■■■■■■■■■■░░░░░░░░] 60%  Python
+[■■■■■■■■■■■■░░░░░░░░] 60%  JavaScript
+[■■■■■■■■■■■■■■░░░░░] 70%  Web Development
 
-> Building real-world projects...
-> Improving programming fundamentals...
-> Expanding technical knowledge...
-> Learning new technologies...
-> Creating better software...
+> Studying programming concepts...
+> Improving problem-solving skills...
+> Building practical projects...
+> Exploring programming languages...
+> Searching for the next skill to master...
 
-$ ./continue.sh
+$ ./next_level.exe
 
-ACCESS GRANTED █
+PROCESS RUNNING █
 ```
 
 ---
 
-## `06 // GITHUB_ANALYTICS`
+# `> GITHUB_ANALYTICS`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaka-dxd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=00e5ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaka-dxd&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=00e5ff"/>
 
 </div>
 
@@ -236,119 +194,80 @@ ACCESS GRANTED █
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=github-dark-blue&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" />
+<img src="https://streak-stats.demolab.com?user=Kaka-dxd&theme=github-dark-blue&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff"/>
 
 </div>
 
 ---
 
-## `07 // CONTRIBUTION_ACTIVITY`
+# `> ACTIVITY_GRAPH`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaka-dxd&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## `08 // ACHIEVEMENTS`
+# `> TROPHIES`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Kaka-dxd&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 
 </div>
 
 ---
 
-## `09 // CONTRIBUTION_SNAKE`
+# `> CONTRIBUTION_SNAKE`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Kaka-dxd/Kaka-dxd/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
-> **Snake protocol:** execute the GitHub Action described below to generate the contribution animation.
+---
 
-Create:
+# `> CONNECT`
 
-`.github/workflows/snake.yml`
+<div align="center">
 
-```yaml
-name: Generate Snake
+<a href="https://github.com/Kaka-dxd">
+<img src="https://img.shields.io/badge/GitHub-Kaka--dxd-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff"/>
+</a>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<a href="https://instagram.com/carlos.hra">
+<img src="https://img.shields.io/badge/Instagram-@carlos.hra-0d1117?style=for-the-badge&logo=instagram&logoColor=00e5ff"/>
+</a>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+<a href="mailto:carloshenrrique2552@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
+</a>
 
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+</div>
 
-      - name: Deploy
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+<br>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║             CARLOS HENRIQUE // 2026                  ║
+║                                                      ║
+║   SOFTWARE ENGINEERING • CODE • LEARNING             ║
+║                                                      ║
+║   STATUS :: ONLINE                                   ║
+║   MODE   :: DEVELOPMENT                              ║
+║   GOAL   :: EVOLUTION                                ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
-
----
-
-## `10 // SOCIAL_NETWORK`
-
-<div align="center">
-
-<a href="https://github.com/SEU_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff"/>
-</a>
-
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
-</a>
-
-<a href="SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00e5ff"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00e5ff,50:0d1117,100:050505"/>
 
-### `> SYSTEM.STATUS`
-
-```text
-┌─────────────────────────────────────┐
-│                                     │
-│   ● SYSTEM ONLINE                   │
-│   ● DEVELOPER MODE ACTIVE           │
-│   ● LEARNING IN PROGRESS            │
-│   ● NEXT LEVEL: LOADING...          │
-│                                     │
-└─────────────────────────────────────┘
-```
-
-**`Built with code, curiosity and caffeine.`**
-
-<sub>© 2026 Carlos Henrique • Software Engineering</sub>
+<sub>Built with code, curiosity and continuous learning.</sub>
 
 </div>
