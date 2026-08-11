@@ -21,26 +21,26 @@
 # `> ABOUT_ME`
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                    DEVELOPER PROFILE                        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  NAME       :: Carlos Henrique                               ║
-║  ROLE       :: Software Engineering Student                  ║
-║  UNIVERSITY :: UNIALFA                                       ║
-║  SEMESTER   :: 3rd Semester                                  ║
-║  STATUS     :: Learning • Building • Evolving                 ║
-║                                                              ║
-║  MISSION                                                      ║
-║  └─ Become a better programmer every day.                    ║
-║                                                              ║
-║  CURRENT FOCUS                                                ║
-║  └─ Improve programming knowledge.                            ║
-║  └─ Strengthen programming fundamentals.                     ║
-║  └─ Deepen knowledge of programming languages.                ║
-║  └─ Build practical projects.                                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+══════════════════════════════════════════════════════════════
+                    DEVELOPER PROFILE                         
+══════════════════════════════════════════════════════════════
+                                                              
+║  NAME       : Carlos Henrique                               
+║  ROLE       : Software Engineering Student                  
+║  UNIVERSITY : UNIALFA                                       
+║  SEMESTER   : 3rd Semester                                  
+║  STATUS     : Learning • Building • Evolving                 
+                                                              
+║  MISSION                                                      
+  └─ Become a better programmer every day.                    
+                                                              
+║  CURRENT FOCUS                                                
+  └─ Improve programming knowledge.                            
+  └─ Strengthen programming fundamentals.                     
+  └─ Deepen knowledge of programming languages.                
+  └─ Build practical projects.                                
+                                                              
+
 ```
 
 🎓 Sou estudante de **Engenharia de Software na Unialfa**, atualmente no **3º período**.
