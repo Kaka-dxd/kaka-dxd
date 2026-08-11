@@ -100,7 +100,7 @@
 
 ---
 
-# `> FEATURED_PROJECT`
+# `>🚀 FEATURED_PROJECT`
 
 <div align="center">
 
@@ -126,19 +126,19 @@ CSS3
 JavaScript
 ```
 
-### `PROJECT_GOAL`
+### `🎯 PROJECT_GOAL`
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  DIGITALIZE                                │
-│  ORGANIZE                                  │
-│  SIMPLIFY                                  │
-│                                             │
-│  Transforming a traditional process         │
-│  into a digital experience.                 │
-│                                             │
-└─────────────────────────────────────────────┘
+─────────────────────────────────────────────
+                                             
+  > DIGITALIZE                                
+  > ORGANIZE                                  
+  > SIMPLIFY                                  
+                                             
+  Transforming a traditional process         
+  into a digital experience.                 
+                                             
+─────────────────────────────────────────────
 ```
 
 <div align="center">
@@ -157,7 +157,7 @@ JavaScript
 
 ```bash
 ╭──────────────────────────────────────────────────────────────╮
-│                    CURRENT MISSION                           │
+                      CURRENT MISSION                           
 ╰──────────────────────────────────────────────────────────────╯
 
 $ ./developer_progress.sh
