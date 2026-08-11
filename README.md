@@ -8,6 +8,7 @@
 
 <br><br>
 
+<!-- STATUS BADGES — VISUAIS, NÃO SÃO LINKS -->
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00e5ff?style=for-the-badge&logo=github&logoColor=white" alt="System Online"/>
 <img src="https://img.shields.io/badge/ENGINEERING%20SOFTWARE-3%C2%BA%20PER%C3%8DODO-111827?style=for-the-badge&logo=academia&logoColor=00e5ff" alt="Engineering Software"/>
@@ -46,7 +47,7 @@
 
 💻 Venho desenvolvendo meus conhecimentos em programação através de linguagens como **C, C++, Python e JavaScript**, além de **HTML e CSS** para desenvolvimento web.
 
-🧠 Atualmente, meu principal objetivo é **aprimorar meus conhecimentos como programador**, fortalecer minha base e me aperfeiçoar cada vez mais em uma linguagem.
+🧠 Meu principal objetivo atualmente é **aprimorar meus conhecimentos como programador**, fortalecer minha base e me aperfeiçoar cada vez mais em uma linguagem.
 
 🚀 Gosto de aprender colocando o conhecimento em prática, desenvolvendo projetos e explorando diferentes formas de resolver problemas através da programação.
 
@@ -84,16 +85,16 @@
 
 <div align="center">
 
-|  TECHNOLOGY  |             CATEGORY            |
-| :----------: | :-----------------------------: |
-|      `C`     |           Programming           |
-|     `C++`    |           Programming           |
-|   `Python`   |           Programming           |
-| `JavaScript` |        Web / Programming        |
-|    `HTML5`   |         Web Development         |
-|    `CSS3`    |         Web Development         |
-|     `Git`    |         Version Control         |
-|   `GitHub`   | Version Control / Collaboration |
+| TECHNOLOGY | CATEGORY |
+|:---:|:---:|
+| `C` | Programming |
+| `C++` | Programming |
+| `Python` | Programming |
+| `JavaScript` | Web / Programming |
+| `HTML5` | Web Development |
+| `CSS3` | Web Development |
+| `Git` | Version Control |
+| `GitHub` | Version Control / Collaboration |
 
 </div>
 
@@ -105,7 +106,7 @@
 
 <a href="https://github.com/Kaka-dxd/Projetos/tree/main/Sites/Oslo%20Barbearia/TRABALHO">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaka-dxd&repo=Projetos&theme=github_dark&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
+<img src="https://img.shields.io/badge/OSLO%20BARBEARIA-VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 
 </a>
 
@@ -189,43 +190,9 @@ PROCESS RUNNING █
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaka-dxd&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=00e5ff"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Kaka-dxd&theme=github-dark-blue&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff"/>
-
-</div>
-
----
-
-# `> ACTIVITY_GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaka-dxd&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# `> TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kaka-dxd&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"/>
-
-</div>
-
----
-
-# `> CONTRIBUTION_SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Kaka-dxd/Kaka-dxd/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -236,15 +203,21 @@ PROCESS RUNNING █
 <div align="center">
 
 <a href="https://github.com/Kaka-dxd">
+
 <img src="https://img.shields.io/badge/GitHub-Kaka--dxd-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff"/>
+
 </a>
 
-<a href="https://instagram.com/carlos.hra_">
+<a href="https://instagram.com/carlos.hra">
+
 <img src="https://img.shields.io/badge/Instagram-@carlos.hra-0d1117?style=for-the-badge&logo=instagram&logoColor=00e5ff"/>
+
 </a>
 
 <a href="mailto:carloshenrrique2552@gmail.com">
+
 <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
+
 </a>
 
 </div>
