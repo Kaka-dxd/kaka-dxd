@@ -8,9 +8,10 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00e5ff?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/ENGINEERING%20SOFTWARE-3%C2%BA%20PER%C3%8DODO-111827?style=for-the-badge&logo=academia&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-111827?style=for-the-badge&logo=codeforces&logoColor=00e5ff"/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00e5ff?style=for-the-badge&logo=github&logoColor=white" alt="System Online"/>
+<img src="https://img.shields.io/badge/ENGINEERING%20SOFTWARE-3%C2%BA%20PER%C3%8DODO-111827?style=for-the-badge&logo=academia&logoColor=00e5ff" alt="Engineering Software"/>
+<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-111827?style=for-the-badge&logo=codeforces&logoColor=00e5ff" alt="Focus Development"/>
 
 </div>
 
