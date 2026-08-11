@@ -153,7 +153,7 @@ JavaScript
 
 ---
 
-# `> CURRENT_OBJECTIVES`
+# `>🧠 CURRENT_OBJECTIVES`
 
 ```bash
 ╭──────────────────────────────────────────────────────────────╮
