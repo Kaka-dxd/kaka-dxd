@@ -25,16 +25,16 @@
                     DEVELOPER PROFILE                         
 ══════════════════════════════════════════════════════════════
                                                               
-║  NAME       : Carlos Henrique                               
-║  ROLE       : Software Engineering Student                  
-║  UNIVERSITY : UNIALFA                                       
-║  SEMESTER   : 3rd Semester                                  
-║  STATUS     : Learning • Building • Evolving                 
+  NAME       : Carlos Henrique                               
+  ROLE       : Software Engineering Student                  
+  UNIVERSITY : UNIALFA                                       
+  SEMESTER   : 3rd Semester                                  
+  STATUS     : Learning • Building • Evolving                 
                                                               
-║  MISSION                                                      
+  MISSION                                                      
   └─ Become a better programmer every day.                    
                                                               
-║  CURRENT FOCUS                                                
+  CURRENT FOCUS                                                
   └─ Improve programming knowledge.                            
   └─ Strengthen programming fundamentals.                     
   └─ Deepen knowledge of programming languages.                
